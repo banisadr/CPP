@@ -1,0 +1,6 @@
+1) Intro to programming (Python in HS); CIS 120; EAS 105
+2) Internship after senior year of HS using PYQT and python to create a small hdf5 data slicing and graphing program for a mentor.
+3) Want to learn to use C++ and am very interested in robotics so it is a relavent skill to learn. (Mech E major)
+4) HP laptop w/ Windows 8
+5) No Preference
+6) I am hard working and good at getting the conceptual side of programming, but in the past have had issues with syntax and debugging so I am relatively slow at programing.

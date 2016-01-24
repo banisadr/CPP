@@ -1,0 +1,20 @@
+﻿Build started 11/17/2012 1:38:29 PM.
+     1>Project "C:\Users\Bahram\Documents\School Work\Soph\CPP\Pong Example\pong\pong.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>InitializeBuildStatus:
+         Creating "Win32\Debug\pong.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         pong.vcxproj -> C:\Users\Bahram\Documents\School Work\Soph\CPP\Pong Example\pong\debug\pong.exe
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\pong.unsuccessfulbuild".
+         Touching "Win32\Debug\pong.lastbuildstate".
+     1>Done Building Project "C:\Users\Bahram\Documents\School Work\Soph\CPP\Pong Example\pong\pong.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

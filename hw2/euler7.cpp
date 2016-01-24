@@ -1,0 +1,24 @@
+#include <iostream>
+#include <stdio.h>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+  int primes = 6;
+  long number = 14;
+  while(primes < 10001){
+    for (long i=2;i<=(int)sqrt(number);i++){
+      if(number%i == 0){
+	number++;
+	break;
+      }if(i>=(int)sqrt(number)){
+	number++;
+	primes++;
+      }
+    }
+  }
+  cout<<number-1<<endl;
+  return 0;
+}
